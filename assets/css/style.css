@@ -14,7 +14,7 @@ main {
 
 .bg_img-left {
     width: 40%;
-    /*height: 100%;*/
+    height: 100%;
     background-color: #ffffff;
     position: fixed;
     overflow: auto;
