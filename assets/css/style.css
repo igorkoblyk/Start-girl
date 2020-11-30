@@ -1,0 +1,275 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: "Montserrat", sans-serif;
+}
+
+main {
+    padding: 12px 24px;
+}
+
+.bg_centre {
+    text-align: center;
+}
+
+.bg_img-left {
+    width: 40%;
+    /*height: 100%;*/
+    background-color: #ffffff;
+    position: fixed;
+    overflow: auto;
+}
+
+.bg-profile{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 50%;
+}
+
+
+.bg_img_girl {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../images/profile_girl.jpg');
+    min-height: 100%;
+}
+
+.bg_right {
+    margin-left: 42%;
+    width: 59%;
+}
+
+.bg_button {
+    width: 50px;
+    height: 50px;
+    right: 5%;
+    position: fixed;
+    border: none;
+    padding: 40px 40px;
+}
+
+.bg_container {
+    padding: 128px 16px;
+}
+
+.bg_JD {
+    font-size: 64px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.bg_download {
+    background-color: #f1f1f1;
+    padding: 12px 24px;
+    margin-top: 16px;
+    border: none;
+ }
+
+.bg_container_foto {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg_text_box-30 {
+    color: #757575;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 30px;
+}
+.bg_text_box-24{
+    font-size: 24px;
+    color: #757575;
+}
+
+.bg_text_black{
+    color: black;
+}
+
+p {
+    color: #757575;
+      text-align: center;
+}
+
+.bg_opasity {
+    opacity: 0.60;
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
+
+.bgsliderBlock{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: space-between;
+    height: 1230px;
+    width: 100%;
+}
+
+.bg_slider{
+    width: 48%;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.bg_container_about p {
+    font-weight: 400;
+    text-align: justify;
+}
+
+.pading_16{
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+
+.bg_text_container_mySkills {
+    letter-spacing: 6px;
+    text-align: left;
+}
+
+.bg_line_grey {
+    background-color: #f1f1f1;
+}
+
+.bg_line_grey_small {
+    padding: 4px 8px;
+    background-color: #616161;
+    color: white;
+}
+.bg_small_box_one{
+    width: 95%;
+}
+.bg_small_box_two{
+    width: 85%;
+}
+.bg_small_box_three{
+    width: 80%;
+}
+.bg_container_Down{
+    color: #fff;
+    background-color: #616161;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bg_container_Down_box{
+    width: 30%;
+}
+.bg_container_Down_box_text{
+ font-size: 20px;
+}
+
+.bg_container_myReputation{
+    display: flex;
+    flex-direction: column;
+}
+
+.bg_myReputation_box{
+    overflow: hidden;
+}
+
+.bg_circle{
+    border-radius: 50%;
+    width: 80px;
+    float: left;
+}
+.bg_myReputation_box p{
+    text-align: left;
+    padding-top: 5px;
+}
+.bg_text-rite{
+    margin-right: 16px;
+    font-size: 18px;
+}
+
+.bg_all_table{
+    display: flex;
+    flex-direction: row;
+   }
+
+.bg_table{
+        padding-right: 20px;
+}
+
+.table {
+    height: 400px;
+}
+
+tr {
+       font-weight: normal;
+    height: 60px;
+    text-align: center;
+}
+
+td {
+        border: 1px solid silver;
+    padding: 16px 16px;
+       width: 450px;
+    color: grey;
+}
+th{
+    border: 1px solid silver;
+    padding: 32px 32px;
+    font-size: 24px;
+    color: white;
+}
+.bg_table_one{
+    background-color: grey;
+}
+.bg_table_two{
+    background-color: black;
+}
+
+.bg_table_price{
+    font-size: 30px;
+}
+.bg_table_text{
+   font-size: 15px;
+}
+.bg_sign_up{
+    background-color: #eeeeee;
+}
+.bg_sign_up_button {
+    background-color: white;
+    padding: 12px 24px;
+    border: none;
+}
+.bg_сontactMe p{
+    text-align: left;
+    padding-top: 15px;
+}
+
+.fa-map-marker-alt,.fa-phone-alt, .fa-envelope{
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.bg_map{
+width: 100%;
+    margin: 32px 0;
+}
+
+.bg_input{
+    padding-bottom: 64px;
+}
+
+.bg_input_message{
+    padding: 15px;
+    display: block;
+    width: 96%;
+}
+
+.bg_finih {
+       color: #000;
+    background-color: #f1f1f1;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    text-align: center;
+    font-size: 24px;
+}
+
